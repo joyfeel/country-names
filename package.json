@@ -1,5 +1,5 @@
 {
-  "name": "country-names",
+  "name": "world-country-names",
   "version": "1.0.0",
   "description": "Get random country names",
   "main": "public/js/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joyfeel/country-names.git"
+    "url": "git+https://github.com/joyfeel/world-country-names.git"
   },
   "keywords": [
     "country",
@@ -20,9 +20,9 @@
   "author": "Joey Chen <joybee210@gmail.com> (https://github.com/joyfeel)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joyfeel/country-names/issues"
+    "url": "https://github.com/joyfeel/world-country-names/issues"
   },
-  "homepage": "https://github.com/joyfeel/country-names#readme",
+  "homepage": "https://github.com/joyfeel/world-country-names#readme",
   "jspm": {
     "dependencies": {
       "json": "github:systemjs/plugin-json@^0.1.0",
