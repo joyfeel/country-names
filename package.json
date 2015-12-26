@@ -1,6 +1,6 @@
 {
   "name": "world-country-names",
-  "version": "1.0.1",
+  "version": "1.1.0-bata.0",
   "description": "Get random country names",
   "main": "public/js/index.js",
   "scripts": {
